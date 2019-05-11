@@ -2,4 +2,4 @@
 
 npm install 
 
-npm run serve
+node index.js
